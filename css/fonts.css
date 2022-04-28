@@ -1,0 +1,34 @@
+@font-face{
+	font-family: 'Gilroy-Medium';
+	src: local('Gilroy-Medium'),
+	url(../fonts/Gilroy-Medium.woff) format('woff'),
+	url(../fonts/Gilroy-Medium.woff2) format('woff2');
+}
+
+@font-face{
+	font-family: 'Gilroy-Bold';
+	src: local('Gilroy-Bold'),
+	url(../fonts/Gilroy-Bold.woff) format('woff'),
+	url(../fonts/Gilroy-Bold.woff2) format('woff2');
+}
+
+@font-face{
+	font-family: 'Gilroy-Extrabold';
+	src: local('Gilroy-Extrabold'),
+	url(../fonts/Gilroy-Extrabold.woff) format('woff'),
+	url(../fonts/Gilroy-Extrabold.woff2) format('woff2');
+}
+
+@font-face{
+	font-family: 'ChronicleDisplay-Semi';
+	src: local('ChronicleDisplay-Semi'),
+	url(../fonts/Chronicle-Display-Semibold.woff) format('woff'),
+	url(../fonts/Chronicle-Display-Semibold.woff2) format('woff2');
+}
+
+@font-face{
+	font-family: 'ChronicleDisplay-Bold';
+	src: local('ChronicleDisplay-Bold'),
+	url(../fonts/ChronicleDisp-Bold.woff) format('woff'),
+	url(../fonts/ChronicleDisp-Bold.woff2) format('woff2');
+}
